@@ -23,3 +23,8 @@
 <span class="menu-title" style="display: none">Docker-compose Graph</span>
 
 <img data-src="img/docker-compose.png" class="plain">
+
+---
+<span class="menu-title" style="display: none">The End</span>
+<section data-background="img/Thats_all_folks.svg">
+
