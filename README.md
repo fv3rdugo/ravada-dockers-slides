@@ -1,6 +1,6 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
-[Ravada Dockers Slides](https://fv3rdugo.github.io/ravada-docker-slides/index.html) for [BCN Workshop Perl 2019](https://revealjs.com/#/)
+[Ravada Dockers Slides](https://fv3rdugo.github.io/ravada-docker-slides/index.html) for [BCN Workshop Perl 2019](https://friends.barcelona.pm)
 ---------------------------------------------------------------------------
 
 - [Ravada Project](https://ravada.upc.edu)  :pushpin:
